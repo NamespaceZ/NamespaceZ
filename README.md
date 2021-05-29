@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NamespaceSetD (Ilya)
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Python / C / C ++ programming language
